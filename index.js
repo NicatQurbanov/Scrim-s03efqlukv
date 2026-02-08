@@ -6,7 +6,7 @@ favouriteMovieGenre("scary")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
 favouriteFruit("watermelon")
-
+// lol
 // light, dark
 favouriteMode("dark")
 
